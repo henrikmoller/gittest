@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=HP HD Webcam Driver
+Version=6.0.1112.2_WHQL
+Company=Sonix
+Lang=0406
